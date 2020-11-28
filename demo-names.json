@@ -1,0 +1,10 @@
+{
+    "Participants": [
+        {"Name":"Albert", "Email":"livefreeordie@comcast.net", "Spouse":"Madeleine"},
+        {"Name":"Madeleine", "Email":"gramf17@comcast.net", "Spouse":"Albert"},
+        {"Name":"David", "Email":"jazzrunnerdave@gmail.com", "Spouse":"Julie"},
+        {"Name":"Julie", "Email":"juliefortedesign@gmail.com", "Spouse":"David"},
+        {"Name":"Greg", "Email":"gflf@comcast.net", "Spouse":"Lauri"},
+        {"Name":"Lauri", "Email":"peachlf@comcast.net", "Spouse":"Greg"}
+    ]
+}
